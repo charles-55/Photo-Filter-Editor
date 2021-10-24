@@ -1,0 +1,9 @@
+miss_sullivan.jpg two_tone.jpg 2
+miss_sullivan.jpg three_tone.jpg 3
+miss_sullivan.jpg extreme_contrast.jpg X
+miss_sullivan.jpg sepia_tint.jpg T
+miss_sullivan.jpg posterize.jpg P
+miss_sullivan.jpg edge_detect.jpg E
+miss_sullivan.jpg improved_edge_detect.jpg I
+miss_sullivan.jpg vertical_flip.jpg V
+miss_sullivan.jpg horizontal_flip.jpg H
